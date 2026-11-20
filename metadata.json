@@ -1,0 +1,6 @@
+{
+  "name": "BeamForge Studio",
+  "description": "Precision laser engraving and cutting SVG/PNG design studio calibrated for the AtomStack X20 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
